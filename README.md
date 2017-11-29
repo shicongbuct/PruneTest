@@ -1,0 +1,2 @@
+# PruneTest
+test prune
